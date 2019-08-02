@@ -5,7 +5,7 @@ hackbar2.1.3 为 firefox hackbar 收费前的版本</br>
 ## 使用方法如下</br>
 
 ### 1. 打开firefox的插件目录</br>
-![Image text](https://github.com/jefflee168/hackbar2.1.3/blob/master/img/1.1.png）
+![Image text](https://github.com/jefflee168/hackbar2.1.3/blob/master/img/1.1.png)
 </br>
 
 ### 2. 然后点这里</br>
