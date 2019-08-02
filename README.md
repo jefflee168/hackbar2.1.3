@@ -1,6 +1,6 @@
-# hackbar2.1.3
+# hackbar2.1.3 </br>
+#### hackerbar 插件说明： hackbar2.1.3 为 firefox hackbar 收费前的版本。它是一个简单的安全审计、渗透测试工具。利用它不仅可以帮忙您测试 SQL 注入、XSS 漏洞等的安全事宜，而且它还可以快速构建一个 http 请求，以便进行渗透测试。</br>
 
-hackbar2.1.3 为 firefox hackbar 收费前的版本</br>
 
 ## 使用方法如下</br>
 
