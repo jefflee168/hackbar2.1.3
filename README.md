@@ -1,5 +1,5 @@
 # hackbar2.1.3
-firefox hackbar收费前的残留版本</br>
+hackbar2.1.3 为 firefox hackbar 收费前的版本</br>
 使用方法</br>
 打开firefox的插件目录</br>
 ![Image text](https://github.com/HCTYMFF/hackbar2.1.3/blob/master/img/1.png)
